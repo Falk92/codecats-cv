@@ -11,7 +11,7 @@ class Language:
 
 # TODO move into a db table
 class MY:
-    NAME = 'YOUR NAME'
+    NAME = 'Here my name'
     EMAIL = 'your.mail@yourmail.com'
     TITLES = (
         ('Your Studies', 'http://google.com'),

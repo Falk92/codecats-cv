@@ -29,7 +29,7 @@ experiences = [
         'work',
         'codecats',
         '2015 - TODAY',
-        'Head of Project & Co-Founder',
+        'Head of HELLOWORLD & Co-Founder',
         'http://codecats.io',
         'Friedrichshafen, Germany',
         'germany',
