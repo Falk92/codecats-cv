@@ -6,6 +6,5 @@ __pycache__/
 .coverage
 .coverage.*
 .idea
-
 site/
 codecats_cv/secrets.py
